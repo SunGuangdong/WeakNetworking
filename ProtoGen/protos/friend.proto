@@ -1,0 +1,44 @@
+// 删除好友
+message ReqRemoveFriend {
+	optional int32 feiendId = 1; // uid
+}
+// 赠送体力
+message ReqGiveVigor {
+	optional int32 feiendId = 1; // uid
+}
+//请求好友信息列表
+message ReqGetFriendList{
+	optional int32 feiendId = 1; // uid
+}
+//返回好友请求列表
+message ResFriendList {
+	repeated UserInfo userInfo = 1; // 英雄等级列表
+}
+//添加好友
+message ReqAddFriend {
+	optional int32 feiendId = 1; // uid
+}
+
+message UserInfo{
+	optional int32 uid = 1; // id
+	optional int32 lv = 2; // 等级
+	optional string head = 4; // 头像
+	optional string name = 5;//昵称
+	optional bool is_give = 6;//是否赠送体力
+}
+
+message ReqFindFriend{
+	optional string name = 1;//昵称
+	optional int32 page = 2; // 当前所处页
+	optional int32 pageSize = 3; // 每页个数
+}
+
+//返回好友请求列表
+message ResFindFriendList {
+	repeated UserInfo userInfo = 1; // 英雄等级列表
+}
+
+//删除好友
+message ReqDeleteFriend {
+	optional int32 feiendId = 1; // uid
+}

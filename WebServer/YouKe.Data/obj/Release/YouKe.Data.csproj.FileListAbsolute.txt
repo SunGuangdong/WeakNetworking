@@ -1,0 +1,12 @@
+F:\youkeweb\YouKe.Data\bin\Release\YouKe.Data.dll
+F:\youkeweb\YouKe.Data\bin\Release\YouKe.Data.pdb
+F:\youkeweb\YouKe.Data\bin\Release\protobuf-net.dll
+F:\youkeweb\YouKe.Data\obj\Release\YouKe.Data.csprojResolveAssemblyReference.cache
+F:\youkeweb\YouKe.Data\obj\Release\YouKe.Data.dll
+F:\youkeweb\YouKe.Data\obj\Release\YouKe.Data.pdb
+C:\Users\asgardgame\Downloads\弱联网\youkeweb1-2\YouKe.Data\bin\Release\YouKe.Data.dll
+C:\Users\asgardgame\Downloads\弱联网\youkeweb1-2\YouKe.Data\bin\Release\YouKe.Data.pdb
+C:\Users\asgardgame\Downloads\弱联网\youkeweb1-2\YouKe.Data\bin\Release\protobuf-net.dll
+C:\Users\asgardgame\Downloads\弱联网\youkeweb1-2\YouKe.Data\obj\Release\YouKe.Data.csprojResolveAssemblyReference.cache
+C:\Users\asgardgame\Downloads\弱联网\youkeweb1-2\YouKe.Data\obj\Release\YouKe.Data.dll
+C:\Users\asgardgame\Downloads\弱联网\youkeweb1-2\YouKe.Data\obj\Release\YouKe.Data.pdb

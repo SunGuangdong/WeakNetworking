@@ -1,0 +1,5 @@
+F:\youkeweb\YouKe.Data\bin\Debug\YouKe.Data.dll
+F:\youkeweb\YouKe.Data\bin\Debug\YouKe.Data.pdb
+F:\youkeweb\YouKe.Data\bin\Debug\protobuf-net.dll
+F:\youkeweb\YouKe.Data\obj\Debug\YouKe.Data.dll
+F:\youkeweb\YouKe.Data\obj\Debug\YouKe.Data.pdb

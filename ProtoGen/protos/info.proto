@@ -1,0 +1,11 @@
+// 错误信息
+message ErrorInfo {
+	optional int32 results = 1; // 结果
+	optional string details = 2; // 细节
+}
+// 错误信息
+message ErrorTest {
+	optional int32 results = 1; // 结果
+	optional string details = 2; // 细节
+	repeated int32 userInfo = 3; // 等级列表
+}
